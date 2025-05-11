@@ -150,11 +150,6 @@ The application handles various error scenarios:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Course Information
-
-- **Course**: Information Security
-- **Section**: BS(SE)-8A
-- **Submission Date**: 23/04/2025
 
 ## Acknowledgments
 
