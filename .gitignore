@@ -1,0 +1,49 @@
+ # Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+*.log
+transfer_history.json
+settings.json
+*.key
+*.pem
+
+# Environment variables
+.env
+.env.local
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Debug files
+*.debug
+debug.log
+
+# Backup files
+*~
+*.backup
